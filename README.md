@@ -17,6 +17,7 @@ NOTE: YOU MUST USE PYTHON PROGRAMMING FOR THE DATA ANALYSIS
 4. Variables
 Definition of each of the variables given in the “Text Analysis.docx” file.
 Look for these variables in the analysis document (Text Analysis.docx):
+
 1.POSITIVE SCORE
 2.NEGATIVE SCORE
 3.POLARITY SCORE
@@ -31,8 +32,9 @@ Look for these variables in the analysis document (Text Analysis.docx):
 12.PERSONAL PRONOUNS
 13.AVG WORD LENGTH
 
-5. Output Data Structure
-Output Variables: 
+6. Output Data Structure
+Output Variables:
+
 1.All input variables in “Input.xlsx”
 2.POSITIVE SCORE
 3.NEGATIVE SCORE
